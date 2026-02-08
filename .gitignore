@@ -1,0 +1,10 @@
+# Ignore Python byte-compiled files
+__pycache__/
+
+
+# Ignore .session and .session-journal files
+*.session
+*.session-journal
+*.log
+.env
+env/
